@@ -1,0 +1,35 @@
+Development Enivironments
+-------------------------
+
+Visual Studio 
+- (IDE) from Microsoft.
+- used to develop console and graphical user interface applications,  Windows Forms , web sites, applications and services, and also Windows Store apps 
+- works only in Windows
+-------------------------------------------------------------------------------
+
+Eclipse 
+- integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. 
+-Written mostly in Java, commonly used to develop applications with JAVA
+-With the help of  plug-ins,  may also be used to develop applications in other
+programming languages:  C++,  JavaScript,  Perl, PHP, Python, Ruby.
+- works in Windows, Linux and Mac
+-------------------------------------------------------------------------------
+
+NetBeans 
+-(IDE) for developing primarily with Java, but also with
+other languages (PHP, C/C++, and HTML5)
+-It is also an application platform framework for
+Java desktop applications and others.
+- works on Windows, Linux and Mac
+-------------------------------------------------------------------------------
+
+Android Studio 
+- (IDE) for the Android platform.
+-------------------------------------------------------------------------------
+
+Xcode 
+-(IDE)  for developing software for OS X and iOS.
+-------------------------------------------------------------------------------
+
+MonoDevelop
+-(IDE) for writing in C#,C/C++ on Linux, open source

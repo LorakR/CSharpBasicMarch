@@ -1,0 +1,47 @@
+Programming Languages
+-------------------------------------
+
+C# -  object-oriented, general-purpose, managed entirely by Microsoft, part of Microsoft.NET Framework platform, for office applications, web applications, websites, desktop applications, mobile applications, games and others.
+-----------------------------------------------------------------------------
+
+Java - object-oriented, general-purpose, part of Java Virtual Machine platform, 
+specifically designed to have as few implementation dependencies as possible to let developers "write once, run anywhere" (WORA), meaning that code that runs on one platform does not need to be recompiled to run on another.
+
+Java is open source, multi-platform independent language;
+C# is not.
+Java has less primitive types than C#.
+-----------------------------------------------------------------------------
+
+C – general-purpose, mostly used for creating operating systems, hardware drivers and embedded devices, for close work with the hardware.
+
+C is unmanaged code;
+C# is managed by the .NET CLR.
+C is a structed language;
+C# is an object orienated language.
+-----------------------------------------------------------------------------
+
+C++ - general-purpose, intermediate level – comprises both high-level and low-level language features (included object oriented features and other enhancements to the C programming language), for creating applications when close work with hardware needed, for special computer performance for 3D games and other.
+
+C++ support multiple inheritance; C# does not.
+C++ creates raw assemblies that run directly on the target platform; C# is a managed language that runs in a virtual machine.
+-----------------------------------------------------------------------------
+
+PHP – server-side scripting language designed for  developing small web sites and web applications, for small projects as general-purpose programming language.
+
+PHP is open source, multi-platform, server-independent language; C# is not.
+PHP is not a strongly typed language; C# is strongly typed.
+-----------------------------------------------------------------------------
+
+Perl -  used for system administration, network programming, finance, bioinformatics, and other applications. Also referred to as the "duct tape that holds the Internet together", in reference to both its  use as a glue language and its inelegance/ it is hard to read/.
+-----------------------------------------------------------------------------
+
+Python – object-oriented,emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code. Like other dynamic languages, Python is often used as a scripting language.
+
+Python is dynamically typed, unlike C#.
+Python is multi-platform independent language.
+-----------------------------------------------------------------------------
+
+Ruby - dynamic, object-oriented language influenced by Perl. Intends to help programmers be productive and to enjoy programming, following the principles of good user interface design.
+
+Ruby is a dynamic typed language;
+C# is a static typed language.

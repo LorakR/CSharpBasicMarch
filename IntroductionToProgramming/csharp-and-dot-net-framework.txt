@@ -1,0 +1,7 @@
+C# AND .NET FRAMEWORK
+---------------------
+
+C# is a programming language  built on .NET Framework
+.NET is a blanket term that tends to cover both the .NET Framework (library) and the CLR (Common Language Runtime) which is the runtime.
+.NET isn't just a library, but also a runtime for executing applications.
+If C# is the airplane then .NET is the runway !
