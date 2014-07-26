@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03FloatOrDouble", "03FloatO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04VariableInHexademicalFormat", "04VariableInHexademicalFormat\04VariableInHexademicalFormat.csproj", "{5AB90004-97CF-4742-BA6E-A8E6A4F6DAC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05UnicodeCharacter", "05UnicodeCharacter\05UnicodeCharacter.csproj", "{B694FF09-0C84-4D22-B7FC-6609A15E70C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5AB90004-97CF-4742-BA6E-A8E6A4F6DAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AB90004-97CF-4742-BA6E-A8E6A4F6DAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AB90004-97CF-4742-BA6E-A8E6A4F6DAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B694FF09-0C84-4D22-B7FC-6609A15E70C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B694FF09-0C84-4D22-B7FC-6609A15E70C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B694FF09-0C84-4D22-B7FC-6609A15E70C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B694FF09-0C84-4D22-B7FC-6609A15E70C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
