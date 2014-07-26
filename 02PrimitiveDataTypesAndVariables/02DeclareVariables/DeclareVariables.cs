@@ -18,4 +18,3 @@ class DeclareVariables
         Console.WriteLine(e);
     }
 }
-
