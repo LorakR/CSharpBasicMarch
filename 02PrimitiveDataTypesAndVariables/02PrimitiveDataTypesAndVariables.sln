@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02DeclareVariables", "02Dec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03FloatOrDouble", "03FloatOrDouble\03FloatOrDouble.csproj", "{EAE93A1F-34DF-4140-8252-06A36E03F64D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04VariableInHexademicalFormat", "04VariableInHexademicalFormat\04VariableInHexademicalFormat.csproj", "{5AB90004-97CF-4742-BA6E-A8E6A4F6DAC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EAE93A1F-34DF-4140-8252-06A36E03F64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAE93A1F-34DF-4140-8252-06A36E03F64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAE93A1F-34DF-4140-8252-06A36E03F64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB90004-97CF-4742-BA6E-A8E6A4F6DAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB90004-97CF-4742-BA6E-A8E6A4F6DAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB90004-97CF-4742-BA6E-A8E6A4F6DAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB90004-97CF-4742-BA6E-A8E6A4F6DAC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
