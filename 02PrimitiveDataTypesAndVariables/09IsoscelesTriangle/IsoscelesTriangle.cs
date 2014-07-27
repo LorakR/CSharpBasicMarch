@@ -11,7 +11,7 @@ class IsoscelesTriangle
 {
     static void Main()
     {
-        //Change the encoding of the console to the UTF8 because the console of Visual Studio by default doesn't support all the Unicode symbols
+        //Change the encoding of the console to UTF8 because the console of Visual Studio by default doesn't support all the Unicode symbols
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         string a = @"   ©
   © ©
