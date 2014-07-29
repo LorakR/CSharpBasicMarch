@@ -8,7 +8,8 @@ class ComparingFloats
     {
         double a = double.Parse(Console.ReadLine());
         double b = double.Parse(Console.ReadLine());
-        if (Math.Abs(a - b) >= 0.000001)
+        const double eps = 0.000001;
+        if (Math.Abs(a - b) >= eps)
         {
             Console.WriteLine("false");
         }
