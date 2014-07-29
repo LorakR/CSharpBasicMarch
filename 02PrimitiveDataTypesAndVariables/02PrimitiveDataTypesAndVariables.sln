@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09IsoscelesTriangle", "09Is
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10ExchangeVariableValues", "10ExchangeVariableValues\10ExchangeVariableValues.csproj", "{F3E24D7D-678F-4757-9B77-2DDB36C50DBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11EmployeeData", "11EmployeeData\11EmployeeData.csproj", "{C7A8ACD3-9401-48D5-BF6E-999A9CCE1EFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F3E24D7D-678F-4757-9B77-2DDB36C50DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3E24D7D-678F-4757-9B77-2DDB36C50DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3E24D7D-678F-4757-9B77-2DDB36C50DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A8ACD3-9401-48D5-BF6E-999A9CCE1EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A8ACD3-9401-48D5-BF6E-999A9CCE1EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A8ACD3-9401-48D5-BF6E-999A9CCE1EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A8ACD3-9401-48D5-BF6E-999A9CCE1EFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
