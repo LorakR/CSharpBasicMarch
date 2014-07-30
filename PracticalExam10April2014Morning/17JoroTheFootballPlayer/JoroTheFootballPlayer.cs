@@ -33,7 +33,7 @@ class JoroTheFootballPlayer
         //when in hometown he plays once
         numberOfPlays = numberOfPlays + hometownWeekends;
         //In the year there are exactly 52 weekends. Those which he don't spend in hometown are considered normal.
-        int normalWeekends = 52 - hometownWeekends;
+        decimal normalWeekends = 52 - hometownWeekends;
         //He is NOT tired 1/3 of the normal weekends
         decimal notTired = normalWeekends * 1 / 3;
         //In the normal weekends when he is not tired he plays twice.
