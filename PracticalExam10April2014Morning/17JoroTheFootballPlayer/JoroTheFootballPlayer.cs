@@ -28,13 +28,14 @@ class JoroTheFootballPlayer
             numberOfPlays = numberOfPlays + 3;
         }
         //he plays only on 1/2 of the holidays
-        numberOfPlays = numberOfPlays + (holidays*1/2);
+        decimal holidayPlays = holidays * 0.5m;
+        numberOfPlays = numberOfPlays + holidayPlays;
         //when in hometown he plays once
         numberOfPlays = numberOfPlays + hometownWeekends;
         //In the year there are exactly 52 weekends. Those which he don't spend in hometown are considered normal.
         int normalWeekends = 52 - hometownWeekends;
         //He is tired 1/3 of the normal weekends
-        int notTired = normalWeekends - normalWeekends * 1/3;
+        decimal notTired = normalWeekends - normalWeekends * 1 / 3;
         //In the normal weekends when he is not tired he plays twice.
         numberOfPlays = numberOfPlays + 2 * notTired;
         //The total number of plays have to be rounded to the nearest integer number.
