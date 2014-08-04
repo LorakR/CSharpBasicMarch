@@ -7,6 +7,7 @@ class HalfSum
     static void Main()
     {
         int countOfNumbers = int.Parse(Console.ReadLine());
+        /*The next two variables should be declared here, not in the loops. Otherwise after the end of the loop the variables cannot be used in other calculations*/
         int sumOfFirstNNumbers = 0;
         int sumOfSecondNNumbers = 0;
         //It is said that the program should compare 2*n numbers or (e.g if n=4 ---> 2*4=8 first 4 numbers and second 4 numbers)
