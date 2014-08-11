@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18HalfSum", "18HalfSum\18Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19Sunglasses", "19Sunglasses\19Sunglasses.csproj", "{ECD6E1F6-8800-4067-8305-D7AD4CBA9AE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20NineDigitMagicNumbers", "20NineDigitMagicNumbers\20NineDigitMagicNumbers.csproj", "{6A49BE93-AE3D-472E-8F1A-5ECE8BD31DCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ECD6E1F6-8800-4067-8305-D7AD4CBA9AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECD6E1F6-8800-4067-8305-D7AD4CBA9AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECD6E1F6-8800-4067-8305-D7AD4CBA9AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A49BE93-AE3D-472E-8F1A-5ECE8BD31DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A49BE93-AE3D-472E-8F1A-5ECE8BD31DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A49BE93-AE3D-472E-8F1A-5ECE8BD31DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A49BE93-AE3D-472E-8F1A-5ECE8BD31DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
