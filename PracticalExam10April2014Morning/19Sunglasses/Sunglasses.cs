@@ -17,7 +17,6 @@ class Sunglasses
             {
                 Console.WriteLine("{0}{1}{0}{2}{0}{1}{0}", '*', new string('/', N * 2 - 2), new string('|', N));
             }
-            //this prints the lenses and the side frames
             else
             {
                 Console.WriteLine("{0}{1}{0}{2}{0}{1}{0}", '*', new string('/', N * 2 - 2), new string(' ', N));
