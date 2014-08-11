@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17JoroTheFootballPlayer", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18HalfSum", "18HalfSum\18HalfSum.csproj", "{6C6629E9-5FD9-49C0-8B35-879C38FE01F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19Sunglasses", "19Sunglasses\19Sunglasses.csproj", "{ECD6E1F6-8800-4067-8305-D7AD4CBA9AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6C6629E9-5FD9-49C0-8B35-879C38FE01F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C6629E9-5FD9-49C0-8B35-879C38FE01F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C6629E9-5FD9-49C0-8B35-879C38FE01F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD6E1F6-8800-4067-8305-D7AD4CBA9AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD6E1F6-8800-4067-8305-D7AD4CBA9AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD6E1F6-8800-4067-8305-D7AD4CBA9AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD6E1F6-8800-4067-8305-D7AD4CBA9AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
