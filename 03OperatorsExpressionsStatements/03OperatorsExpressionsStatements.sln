@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11PointInsideCircleOutsideR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12ExtractBitThirdPosition", "12ExtractBitThirdPosition\12ExtractBitThirdPosition.csproj", "{9114752A-55DC-4517-865D-F732BB36876D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13ExtractBitFromInteger", "13ExtractBitFromInteger\13ExtractBitFromInteger.csproj", "{63A5F53C-F818-4797-9227-A5D303D89B90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{9114752A-55DC-4517-865D-F732BB36876D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9114752A-55DC-4517-865D-F732BB36876D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9114752A-55DC-4517-865D-F732BB36876D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A5F53C-F818-4797-9227-A5D303D89B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A5F53C-F818-4797-9227-A5D303D89B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A5F53C-F818-4797-9227-A5D303D89B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A5F53C-F818-4797-9227-A5D303D89B90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
