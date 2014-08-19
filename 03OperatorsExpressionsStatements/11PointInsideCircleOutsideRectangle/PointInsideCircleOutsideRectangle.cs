@@ -2,7 +2,7 @@
 
 using System;
 
-class PointInsideCircleOutsideRetangle
+class PointInsideCircleOutsideRectangle
 {
     static void Main()
     {
