@@ -8,17 +8,16 @@ class PointInsideCircleOutsideRectangle
     {
         double x = double.Parse(Console.ReadLine());
         double y = double.Parse(Console.ReadLine());
-        bool isValid = false;
-        //checks whether the point is inside the circle
-        if (Math.Pow(x - 1, 2) + Math.Pow(y - 1, 2) <= 1.5 * 1.5)
+        bool isInCircle = Math.Pow(x - 1, 2) + Math.Pow(y - 1, 2) <= 1.5 * 1.5;
+        bool isInRectangle = ((x >= -1 && x <= 5) && ( y >= -1 && y <= 1));
+        if (isInCircle && !isInRectangle)
         {
-            //checks whether the point is outside the rectangle
-            if (!((x >= -1 && x <= 6) && (y >= -1 && y <= 1)));
-            {
-                isValid = true;
-            }
+            Console.WriteLine("yes");
         }
-        Console.WriteLine(isValid);
+        else
+        {
+            Console.WriteLine("no");
+        }
     }
 }
 
