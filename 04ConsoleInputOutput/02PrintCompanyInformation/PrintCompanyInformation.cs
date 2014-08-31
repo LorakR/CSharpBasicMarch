@@ -29,6 +29,7 @@ class PrintCompanyInformation
         int managerAge = int.Parse(Console.ReadLine());
         Console.Write("Manager phone number: ");
         string managerPhone = Console.ReadLine();
+        //empty line for better visualisation
         Console.WriteLine();
         Console.WriteLine("{0}\nAddress: {1}\nTel. {2}",companyName,companyAddress,phoneNumber);
         Console.WriteLine("Fax: {0}\nWeb site: {1}\nManager: {2} {3} (age: {4}, tel. {5})",faxNumber,website,managerFirstName,managerLastName,managerAge,managerPhone);
