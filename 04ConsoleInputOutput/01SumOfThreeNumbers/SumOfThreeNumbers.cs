@@ -11,7 +11,7 @@ class SumOfThreeNumbers
     {
         //Number formats are different in different countries e.g the decimal separator can be "." or ","
         //To ensure that the decimal separator is "." - use the following code
-        //Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
+        Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
         double a = double.Parse(Console.ReadLine());
         double b = double.Parse(Console.ReadLine());
         double c = double.Parse(Console.ReadLine());
