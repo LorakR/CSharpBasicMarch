@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02BonusScore", "02BonusScor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03CheckForAPlayCard", "03CheckForAPlayCard\03CheckForAPlayCard.csproj", "{03045A89-1820-486A-ACB5-1BFA8F6BD95F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04MultiplcationSign", "04MultiplcationSign\04MultiplcationSign.csproj", "{3FB51206-4233-40FB-B8BB-E96753C460AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{03045A89-1820-486A-ACB5-1BFA8F6BD95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03045A89-1820-486A-ACB5-1BFA8F6BD95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03045A89-1820-486A-ACB5-1BFA8F6BD95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB51206-4233-40FB-B8BB-E96753C460AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB51206-4233-40FB-B8BB-E96753C460AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB51206-4233-40FB-B8BB-E96753C460AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB51206-4233-40FB-B8BB-E96753C460AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
