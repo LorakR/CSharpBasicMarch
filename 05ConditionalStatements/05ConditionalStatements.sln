@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06TheBiggestOfFiveNumbers",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Sort3NumbersWithNestedIfs", "07Sort3NumbersWithNestedIfs\07Sort3NumbersWithNestedIfs.csproj", "{F184F904-1271-4BD2-9CF6-DB41A3A33299}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08DigitAsWord", "08DigitAsWord\08DigitAsWord.csproj", "{DE7F2854-BCDA-45D7-944C-E5482070243C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F184F904-1271-4BD2-9CF6-DB41A3A33299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F184F904-1271-4BD2-9CF6-DB41A3A33299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F184F904-1271-4BD2-9CF6-DB41A3A33299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7F2854-BCDA-45D7-944C-E5482070243C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7F2854-BCDA-45D7-944C-E5482070243C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7F2854-BCDA-45D7-944C-E5482070243C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7F2854-BCDA-45D7-944C-E5482070243C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
